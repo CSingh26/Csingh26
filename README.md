@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Linux, React, Docker**
 
-💬 Reach me **[mailto:singh.chaiitanya@gmail.com](here)**
+💬 Reach me here **[here](mailto:singh.chaiitanya@gmail.com)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
