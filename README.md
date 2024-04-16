@@ -14,8 +14,15 @@
  
  🌱 I’m currently learning **Linux, React, Docker**
 
-💬 Reach me here **[here](mailto:singh.chaiitanya@gmail.com)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The can opener ritual in "Suits" was never explained!**
 
  </div>
+
+ <div align="center"> 
+  <a href="mailto:singh.chaiitanya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/chaitanya-singh-10065a213" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
