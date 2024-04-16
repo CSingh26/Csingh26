@@ -4,4 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chaitanya+Singh!;" />
 </h1>
 
-<h3 align="center">I am a Adaptable IT enthusiast with experience in databases, DevOps, AI/ML, web development, and programming. competent with a wide range of technologies and languages from India 🇮🇳</h3>
+<h3 align="center">I am a skilled tech enthusiast from India 🇮🇳</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **Calculator App**
+ 
+ 🌱 I’m currently learning **Linux, React, Docker**
+
+💬 Reach me **[mailto:singh.chaiitanya@gmail.com](here)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
