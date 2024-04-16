@@ -26,3 +26,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mysql,mongodb,c,java,flask,c,c++" /><br>
+</div>
+
+<br/>
+<hr/>
