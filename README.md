@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Project Manager Web-App**
+ 🔭 I’m currently working on **Quiz Web-App**
  
- 🌱 I’m currently learning **Linux, React, Docker**
+ 🌱 I’m currently learning **AWS, React, Docker**
 
 ⚡ Fun fact **The can opener ritual in "Suits" was never explained!**
 
