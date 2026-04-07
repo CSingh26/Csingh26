@@ -50,10 +50,10 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=CSingh26&theme=dark&border_radius=8&card_width=529" alt="streak stats"/>
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSingh26&layout=compact" alt="Top Languages" />
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com?user=CSingh26&theme=dark&border_radius=8&card_width=529" alt="streak stats" />
+  <br/><br/>
+  <img width="325" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CSingh26&theme=github_dark" alt="Top Languages" />
 </div>
 
 <br/><br/>
