@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chaitanya+Singh!;" />
 </h1>
 
-<h3 align="center">I am a skilled tech enthusiast from India 🇮🇳</h3>
+<h3 align="center">Building software to understand financial systems.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Financial Wellness App**
+ 🔭 I’m currently working on **finance research and risk software**
  
- 🌱 I’m currently learning **AWS, React, Docker**
+ 🌱 I’m currently learning **corporate finance, accounting and quantitative research**
 
 ⚡ Fun fact **The can opener ritual in "Suits" was never explained!**
 
@@ -26,6 +26,28 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+<hr/>
+
+## Finance is the problem domain. Computer science is the force multiplier.
+
+I build software to investigate financial questions with explicit assumptions, traceable data and tested calculations. The progression runs from reliable systems and data pipelines through accounting, valuation and risk to carefully evaluated machine learning.
+
+| Project | Question it investigates |
+|---|---|
+| **[QuantEdge](https://github.com/CSingh26/QuantEdge)** · flagship, private | How do filing evidence, market risk and valuation fit into one research workflow? |
+| [LedgerLens](https://github.com/CSingh26/LedgerLens) | Do reported earnings, cash generation and balance-sheet changes tell a consistent story? |
+| [IntrinsicLab](https://github.com/CSingh26/IntrinsicLab) | How do margins, reinvestment and the cost of capital change a valuation range? |
+| [PortfolioPilot](https://github.com/CSingh26/PortfolioPilot) | Where does portfolio risk come from, and how do diversification and costs change it? |
+| [CreditLens](https://github.com/CSingh26/CreditLens) | How do default probability, loss severity and lending costs affect expected outcomes? |
+| [FraudPulse](https://github.com/CSingh26/FraudPulse) | How should detection thresholds balance missed fraud and false-positive costs? |
+| [ChronosResearch](https://github.com/CSingh26/ChronosResearch) | Do market predictors survive chronological out-of-sample tests against simple baselines? |
+
+Each finance repository includes methodology, assumptions, limitations and reproducible checks. Demonstration data is labeled. A model that fails to beat its baseline is still a result worth reporting.
+
+**Broader computer-science work:** [ReliScore](https://github.com/CSingh26/ReliScore) studies storage telemetry and predictive failure; [QuizBee](https://github.com/CSingh26/quiz-app) explores authenticated workflows, grading and transactional persistence; [Gridesign](https://github.com/CSingh26/Gridesign) demonstrates responsive UI and resilient service integrations.
+
+QuantEdge brings the disciplines together; the focused public projects make individual methods easier to inspect.
 
 <hr/>
 
