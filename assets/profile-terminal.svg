@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Chaitanya Singh — Financial Systems and Quantitative Research</title>
+  <desc id="desc">A dark research-terminal inspired banner with a market signal line and Chaitanya Singh's focus areas.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f" />
+      <stop offset="0.55" stop-color="#0b1726" />
+      <stop offset="1" stop-color="#101d2b" />
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0" />
+      <stop offset="0.22" stop-color="#38bdf8" />
+      <stop offset="1" stop-color="#fbbf24" />
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="38%" r="55%">
+      <stop offset="0" stop-color="#0ea5e9" stop-opacity="0.16" />
+      <stop offset="1" stop-color="#0ea5e9" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#8aa2b8" stroke-opacity="0.075" stroke-width="1" />
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="360" rx="20" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#background)" />
+    <rect width="1200" height="360" fill="url(#grid)" />
+    <rect width="1200" height="360" fill="url(#glow)" />
+
+    <path d="M630 263 C680 250 702 268 744 236 C786 204 808 228 846 196 C884 164 910 191 950 146 C985 107 1025 139 1061 101 C1090 70 1120 82 1160 46"
+          fill="none" stroke="url(#signal)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M630 263 C680 250 702 268 744 236 C786 204 808 228 846 196 C884 164 910 191 950 146 C985 107 1025 139 1061 101 C1090 70 1120 82 1160 46 L1160 320 L630 320 Z"
+          fill="#38bdf8" fill-opacity="0.035" />
+
+    <g fill="#8aa2b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">
+      <text x="64" y="52">RESEARCH TERMINAL / PROFILE 026</text>
+      <text x="1028" y="52">ONLINE</text>
+    </g>
+    <circle cx="1008" cy="47" r="4" fill="#34d399" />
+
+    <text x="64" y="137" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="55" font-weight="700" letter-spacing="-1.5">Chaitanya Singh</text>
+    <text x="66" y="181" fill="#7dd3fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" letter-spacing="2">FINANCIAL SYSTEMS × QUANTITATIVE RESEARCH</text>
+
+    <line x1="64" y1="219" x2="536" y2="219" stroke="#334155" />
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <text x="64" y="254" fill="#64748b" font-size="11" letter-spacing="1.5">DOMAIN</text>
+      <text x="64" y="279" fill="#e2e8f0" font-size="14">FINANCE + SOFTWARE</text>
+
+      <text x="258" y="254" fill="#64748b" font-size="11" letter-spacing="1.5">METHOD</text>
+      <text x="258" y="279" fill="#e2e8f0" font-size="14">EVIDENCE → DECISIONS</text>
+
+      <text x="478" y="254" fill="#64748b" font-size="11" letter-spacing="1.5">FOCUS</text>
+      <text x="478" y="279" fill="#e2e8f0" font-size="14">RISK / VALUE / ML</text>
+    </g>
+
+    <g transform="translate(1000 264)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <rect width="136" height="40" rx="8" fill="#0f2535" stroke="#1e3a4c" />
+      <text x="68" y="25" text-anchor="middle" fill="#fbbf24" font-size="12" letter-spacing="1.2">ASSUMPTIONS: ON</text>
+    </g>
+  </g>
+</svg>

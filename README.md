@@ -1,87 +1,71 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CSingh26.CSingh26" />
+<p align="center">
+  <img src="./assets/profile-terminal.svg" alt="Chaitanya Singh — financial systems and quantitative research" width="100%" />
+</p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chaitanya+Singh!;" />
-</h1>
+<p align="center">
+  <a href="mailto:singh.chaiitanya@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/chaitanya-singh-10065a213">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://chaitanyasingh.org">Portfolio</a>
+</p>
 
-<h3 align="center">Building software to understand financial systems.</h3>
+## Finance is the problem domain. Software is the leverage.
 
-<br/>
+I build research systems that make financial reasoning inspectable—from the source data and assumptions to the calculation, model and decision. My work sits at the intersection of **financial analysis**, **quantitative research** and **production software engineering**.
 
-<div align="center">
- 
- 🔭 I’m currently working on **finance research and risk software**
- 
- 🌱 I’m currently learning **corporate finance, accounting and quantitative research**
+I am a computer science student at **Arizona State University**, currently focused on accounting, valuation, portfolio risk, credit, fraud and time-aware machine learning.
 
-⚡ Fun fact **The can opener ritual in "Suits" was never explained!**
+> **Working principle:** a useful model should expose what it assumes, show where its evidence came from and remain honest when a simple baseline wins.
 
- </div>
+## Selected research systems
 
- <div align="center"> 
-  <a href="mailto:singh.chaiitanya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/chaitanya-singh-10065a213" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+| | Project | Research question | What it demonstrates |
+|:--:|---|---|---|
+| **01** | **QuantEdge**<br><sub>Flagship · private</sub> | How do filing evidence, market risk and valuation fit into one research workflow? | Multi-perspective equity research, scenario analysis, provenance and trust-labeled outputs. |
+| **02** | **[LedgerLens](https://github.com/CSingh26/LedgerLens)** | Do earnings, cash generation and balance-sheet changes tell a consistent story? | SEC filing normalization, three-statement relationships, capital efficiency and evidence exports. |
+| **03** | **[IntrinsicLab](https://github.com/CSingh26/IntrinsicLab)** | What must be true about a company’s economics for its valuation to make sense? | FCFF, WACC, terminal value, comparables and assumption sensitivity. |
+| **04** | **[PortfolioPilot](https://github.com/CSingh26/PortfolioPilot)** | Where does portfolio risk actually come from? | Risk contribution, downside analysis, optimization, costs and historical strategy evaluation. |
 
-<hr/>
+### Risk, credit and forecasting
 
-## Finance is the problem domain. Computer science is the force multiplier.
+- **[CreditLens](https://github.com/CSingh26/CreditLens)** connects default probability, loss severity, exposure and loan pricing to calibration and threshold economics.
+- **[FraudPulse](https://github.com/CSingh26/FraudPulse)** evaluates fraud detection through missed-loss exposure, investigation cost and strictly prior account behavior.
+- **[ChronosResearch](https://github.com/CSingh26/ChronosResearch)** tests whether market predictors survive purged, chronological out-of-sample evaluation against simple baselines.
 
-I build software to investigate financial questions with explicit assumptions, traceable data and tested calculations. The progression runs from reliable systems and data pipelines through accounting, valuation and risk to carefully evaluated machine learning.
+## How I work
 
-| Project | Question it investigates |
+```text
+QUESTION  →  ASSUMPTIONS  →  DATA CONTRACT  →  MODEL  →  VALIDATION  →  INTERPRETATION
+               visible         traceable        tested      honest          bounded
+```
+
+| Principle | In practice |
 |---|---|
-| **[QuantEdge](https://github.com/CSingh26/QuantEdge)** · flagship, private | How do filing evidence, market risk and valuation fit into one research workflow? |
-| [LedgerLens](https://github.com/CSingh26/LedgerLens) | Do reported earnings, cash generation and balance-sheet changes tell a consistent story? |
-| [IntrinsicLab](https://github.com/CSingh26/IntrinsicLab) | How do margins, reinvestment and the cost of capital change a valuation range? |
-| [PortfolioPilot](https://github.com/CSingh26/PortfolioPilot) | Where does portfolio risk come from, and how do diversification and costs change it? |
-| [CreditLens](https://github.com/CSingh26/CreditLens) | How do default probability, loss severity and lending costs affect expected outcomes? |
-| [FraudPulse](https://github.com/CSingh26/FraudPulse) | How should detection thresholds balance missed fraud and false-positive costs? |
-| [ChronosResearch](https://github.com/CSingh26/ChronosResearch) | Do market predictors survive chronological out-of-sample tests against simple baselines? |
+| **Evidence before output** | Preserve source tags, periods, retrieval context and versioned artifacts. |
+| **Uncertainty stays visible** | Separate observed data, user assumptions, synthetic demonstrations and model estimates. |
+| **Time has direction** | Fit preprocessing on the past, purge overlapping labels and reserve untouched future observations. |
+| **Baselines earn respect** | Compare complex models with transparent alternatives and report when complexity does not win. |
+| **Calculations are contracts** | Use typed boundaries, numerical checks and reproducible exports from engine to interface. |
 
-Each finance repository includes methodology, assumptions, limitations and reproducible checks. Demonstration data is labeled. A model that fails to beat its baseline is still a result worth reporting.
+## Technical toolkit
 
-**Broader computer-science work:** [ReliScore](https://github.com/CSingh26/ReliScore) studies storage telemetry and predictive failure; [QuizBee](https://github.com/CSingh26/quiz-app) explores authenticated workflows, grading and transactional persistence; [Gridesign](https://github.com/CSingh26/Gridesign) demonstrates responsive UI and resilient service integrations.
+| Domain | Tools I use |
+|---|---|
+| **Financial research** | Financial statements, DCF, WACC, capital efficiency, portfolio theory, credit and scenario analysis |
+| **Quantitative & ML** | Python, pandas, NumPy, scikit-learn, TensorFlow, time-series validation, model evaluation |
+| **Applications & data** | TypeScript, React, Next.js, FastAPI, Node.js, PostgreSQL, Prisma, REST APIs |
+| **Systems & delivery** | Git, Docker, Linux, AWS, CI, test automation, data provenance and reproducible workflows |
 
-QuantEdge brings the disciplines together; the focused public projects make individual methods easier to inspect.
+## Beyond finance
 
-<hr/>
+- **[ReliScore](https://github.com/CSingh26/ReliScore)** — predictive-maintenance research across telemetry, temporal labels, training, inference and fleet triage.
+- **[QuizBee](https://github.com/CSingh26/quiz-app)** — authenticated assessment workflows, grading and transactional persistence.
+- **[Gridesign](https://github.com/CSingh26/Gridesign)** — responsive interface engineering and resilient service integrations.
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,r,vercel,npm,prisma" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mysql,mongodb,c,java,flask,cpp,kubernetes" />
-    <img src="https://skillicons.dev/icons?i=bash,postman,linux,redhat,tensorflow,ansible,aws,docker,nextjs,postgres,anaconda"/><br>
-</div>
+---
 
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CSingh26/CSingh26/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com?user=CSingh26&theme=dark&border_radius=8&card_width=529" alt="streak stats" />
-  <br/><br/>
-  <img width="325" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CSingh26&theme=github_dark" alt="Top Languages" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<br/>
+<p align="center">
+  <strong>Interested in financial research, risk systems and evidence-driven software.</strong><br />
+  <sub>Explore the repositories above or <a href="mailto:singh.chaiitanya@gmail.com">start a conversation</a>.</sub>
+</p>
